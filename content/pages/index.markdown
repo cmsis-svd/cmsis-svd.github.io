@@ -1,9 +1,9 @@
----
-layout: home
----
+Title: Home
+URL:
+save_as: index.html
 
 <p align="center">
-  <img src="assets/img/logo.png" />
+  <img src="{static}/images/logo.png" style="max-width: 200px;" />
 </p>
 
 

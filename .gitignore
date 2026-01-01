@@ -1,5 +1,8 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+# Virtual environments
+venv/
+
+# Python
+__pycache__
+
+# Pelican
+output/
