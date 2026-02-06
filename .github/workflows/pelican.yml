@@ -33,7 +33,7 @@ jobs:
           python-version: '3.13' 
 
       - name: Instal dependencies
-        run: pip install pelican
+        run: pip install -r requirements.txt
 
       - name: Build with Pelican
         run: pelican
