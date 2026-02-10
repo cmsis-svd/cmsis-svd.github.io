@@ -15,6 +15,8 @@ Our community aims to make SVD (System View Description) files and related tools
 
 ## What We Provide
 
+- **[SVD Schema Collections](https://github.com/cmsis-svd/svd-schema)**: Agregation of CMSIS-SVD schema definitions with rules for SVD file validation.
+
 - **[SVD Data Collections](https://github.com/cmsis-svd/cmsis-svd-data)**: Comprehensive aggregations of ARM Cortex-M and other CMSIS SVD files for various devices.
 
 - **[SVD Parsers and Tools](https://github.com/cmsis-svd/cmsis-svd)**: Python-based tools for parsing, validating, and working with SVD files.
